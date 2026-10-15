@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "shimo-drive",
+  "version": "0.1.4",
+  "description": "Find files by name and folder in private Shimo Drive, read and edit lightweight documents with verified readback.",
+  "repository": "https://github.com/liwo-yuandian/shimo-drive-skill"
+}

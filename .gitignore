@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+dist/
+.env
+.env.*
+auth.json
+*cookie*.json
+local-test/
+.omx/
